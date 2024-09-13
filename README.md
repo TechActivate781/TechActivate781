@@ -1,16 +1,16 @@
-## Hi there 👋
+# readme
 
-<!--
-**TechActivate781/TechActivate781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm TechActivate 781
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer who works with C. You can find me on BetaWiki, and I have a YouTube channel (https://www.youtube.com/@techactivate781/videos)
+
+## My GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechActivate781&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechActivate781&show_icons=true&theme=dark)
+
+## GitHub Profile Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=TechActivate781&theme=dark)
