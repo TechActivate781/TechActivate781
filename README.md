@@ -5,6 +5,8 @@ Hello, I'm TechActivate 781
 ## About Me
 
 I'm a developer who works with C. You can find me on BetaWiki, and I have a YouTube channel (https://www.youtube.com/@techactivate781/videos)
+Occasionally, I contribute here when I have free time (which is kinda rare these days).
+Apart from coding, I spend some of my free time playing a few games, or exploring old Windows versions.
 
 ## My GitHub Stats
 
