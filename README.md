@@ -19,4 +19,4 @@ Kindness and equality never hurt anyone 🩷
 ![Top Languages](https://ghstats.dev/api/langs?username=TechActivate781&theme=catppuccin) 
 
 ### Stats card
-![GitHub Stats Card](https://ghstats.dev/api/card?username=TechActivate781&theme=catppuccin&border_radius=0&hide=prs%2Cissues%2Cactive_day) 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=TechActivate781&theme=catppuccin&border_radius=0&custom_title=Stats+%28nyaa%29&hide=prs%2Cissues%2Cactive_day%2Chours%2Cweek%2Cstreak%2Cavg%2Cgrade%2Ctrend)
